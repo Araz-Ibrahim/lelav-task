@@ -1,0 +1,12 @@
+.ku img,
+.en img {
+  height: 30px;
+  width: 40px;
+}
+
+.navbar .navbar-nav .active {
+  color: #28ABE3 !important; 
+}
+.navbar .navbar-nav .active:hover {
+  color: #28ABE3 !important; 
+}

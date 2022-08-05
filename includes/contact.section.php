@@ -72,7 +72,7 @@
  						<textarea rows="6" placeholder="<?php echo $contact[0]["contact_form_message"] ?>" class="form-control" name="message" id="message" required></textarea>
  					</div>
  					<div id="cf-submit">
- 						<input type="submit" id="contact-submit" class="btn btn-transparent" value="<?php echo $contact[0]["contact_form_btn_submit"] ?>">
+ 						<input type="submit" id="contact-submit" class="btn btn-transparent" name="submit" value="<?php echo $contact[0]["contact_form_btn_submit"] ?>">
  					</div>
 
  				</form>

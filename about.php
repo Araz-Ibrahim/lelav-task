@@ -167,7 +167,7 @@ Create Together
 				<p>
 					<?php echo $aboutTogether[0]["about_together_description"] ?>
 				</p>
-				<a href="contact.php" class="btn btn-main"><?php echo $header[0]["nav_home"] ?></a>
+				<a href="contact.php" class="btn btn-main"><?php echo $header[0]["nav_contact"] ?></a>
 			</div>
 		</div> <!-- End row -->
 	</div> <!-- End container -->

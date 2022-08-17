@@ -99,12 +99,12 @@ Fixed Navigation
 
         <!-- Language -->
         <?php if($lang == "1") { ?>
-        <a class="navbar-brand ku mx-5 d-block text-center" href="switch-lang.php">
+        <a class="navbar-brand ku mx-5 d-block text-center" href="switch-lang.php" title="Kurdish">
           <img loading="lazy" src="images/Kurdish.png" class="rounded" alt="Ku" />
         </a>
         <?php } else { ?>
         <a class="navbar-brand en mx-5 d-block text-center" href="switch-lang.php">
-          <img loading="lazy" src="images/Us.png" class="rounded" alt="En" />
+          <img loading="lazy" src="images/Us.png" class="rounded" alt="En" title="English" />
         </a>
         <?php } ?>
         <!-- /Language -->

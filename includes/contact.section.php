@@ -87,6 +87,7 @@
 =            Google Map            =
 =================================-->
 <div class="google-map">
-	<div id="map_canvas" class="map_canvas" data-latitude="36.855400" data-longitude="42.988010" data-marker="images/marker.png" data-marker-name="Bingo"></div>
+	<!-- <div id="map_canvas" class="map_canvas" data-latitude="36.855400" data-longitude="42.988010" data-marker="images/marker.png" data-marker-name="Bingo"></div> -->
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22061.02420528743!2d42.959710452772114!3d36.862266383614816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40088cec624a8eb5%3A0xd93380a39a2fd170!2sDuhok%20Mall!5e0!3m2!1sen!2siq!4v1660842382748!5m2!1sen!2siq" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
  <!--====  End of Google Map  ====-->
